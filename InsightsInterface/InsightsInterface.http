@@ -1,0 +1,6 @@
+@InsightsInterface_HostAddress = http://localhost:5116
+
+GET {{InsightsInterface_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
